@@ -71,3 +71,9 @@ Bu projede *“Weight-Training Ensemble Model for Stock Price Forecast”* adlı
 ## 4. Grafik
 
 ![image](https://github.com/user-attachments/assets/f78578d6-ebe8-4e4c-8921-5007f82df0ba)
+
+## 5. Sonuç
+Bu projede, hisse senedi fiyat tahmini için farklı makine öğrenmesi modelleri ve ensemble yöntemleri karşılaştırılmıştır. Sonuçlar, ensemble yöntemlerinin tekil modellere göre daha iyi performans gösterebileceğini, özellikle de lineer regresyon ile yapılan ensemble’ın hata oranlarını önemli ölçüde düşürdüğünü ortaya koymuştur. Bu çalışma, finansal zaman serisi tahminlerinde model çeşitliliği ve birleşik model kullanımının önemini vurgulamaktadır. Bu projede vardığımız nokta gelişmiş ensemble’ın tekil modelden de basit bir ensemble’dan da daha iyi performans gösterdiği olmuştur. Çıktılarımız makaledeki bu tezi kanıtlar nitelikte olmuştur.
+
+## 6. Kaynakça
+J. Zhao, A. Takai and E. Kita, "Weight-Training Ensemble Model for Stock Price Forecast," 2022 IEEE International Conference on Data Mining Workshops (ICDMW), Orlando, FL, USA, 2022, pp. 1-6, doi: 10.1109/ICDMW58026.2022.00024.
