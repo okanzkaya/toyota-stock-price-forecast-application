@@ -77,3 +77,5 @@ plt.plot(stacking_pred, label='Stacking Tahmini')
 plt.legend()
 plt.title('Linear Regression Ensemble vs Gerçek Değerler')
 plt.show()
+
+![image](https://github.com/user-attachments/assets/f78578d6-ebe8-4e4c-8921-5007f82df0ba)
